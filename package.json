@@ -1,0 +1,11 @@
+{
+  "name": "logic-programmign",
+  "version": "1.0.0",
+  "description": "only logic",
+  "main": "index.js",
+  "author": "jevill",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
